@@ -19,3 +19,7 @@ change timezone to UTC
 ## Resouces
 https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
 https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2
+
+## User Info
+User: grader
+Password: linuX@uDacity1016
